@@ -14,6 +14,8 @@ This project, set within the expansive landscape of Python's capabilities, focus
 4. **Summary**
 5. **Results**
 6. **Conclusion**
+7. **References**
+8. **Contributors**
 ## **1. OverView**
 Leveraging Python for motion detection is facilitated by the myriad open-source libraries available within the Python programming language. The significance of motion detection extends to various practical applications, including its utility in online exam invigilation and enhancing security measures in establishments such as stores and banks. This project serves as a comprehensive guide to delve into the realm of motion detection, showcasing its versatility and applicability.
 ## **2.Getting Started**
@@ -58,3 +60,10 @@ The results derived after the above code was run would be similar to what can be
 - In the context of motion analysis, the distinction between rest and motion is determined by an object's speed; a stationary object is at rest, while any degree of motion signifies its dynamic state.
 - OpenCV, an open-source library compatible with multiple programming languages, becomes a potent asset when seamlessly integrated with Python's pandas/NumPy libraries, allowing for optimal utilization of OpenCV features.
 - The core concept driving this project revolves around recognizing that a video is essentially a composition of static images known as frames. The detection process hinges on identifying differences between these frames, emphasizing the fundamental aspect of motion detection and tracking.
+## 6. **References**
+1. OpenAI Gym. (https://gym.openai.com/)
+2. S Takemura, A Bharioke, Z Lu, A Nern, S Vitaladevuni… - Nature, 2013 - nature.com
+3. CWG Clifford, MR Ibbotson - Progress in neurobiology, 2002 - Elsevier
+4.  Vaishnavi Amira Yada,August 12, 2022,How to Perform Motion Detection Using Python.
+## 7.**Contributors**
+Nimeesha Vakacharla
